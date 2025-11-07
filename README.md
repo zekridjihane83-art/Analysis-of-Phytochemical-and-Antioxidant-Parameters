@@ -13,8 +13,8 @@
 
 ![Points obtenus](https://github.com/user-attachments/assets/d5b5a222-1363-49f7-9eb5-d3fdbdf28e7e)
 
-
-: https://doi.org/10.56027/JOASD.032021 https://quoidansmonassiette.fr/
+[
+](https://docs.google.com/document/d/1R_9eXZiSdnK_ErfupGVmIhfUhgVc6NGc/edit): https://doi.org/10.56027/JOASD.032021 https://quoidansmonassiette.fr/
  https://quoidansmonassiette.fr/
 
 
