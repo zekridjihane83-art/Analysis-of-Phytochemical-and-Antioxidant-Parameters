@@ -11,6 +11,7 @@
 | Graine              | 42.8                          | 15.7                  | 89                |
 | Gousse              | 25.3                          | 8.1                   | 78                |
 
+![Points obtenus](https://github.com/user-attachments/assets/d5b5a222-1363-49f7-9eb5-d3fdbdf28e7e)
 
 
 : https://doi.org/10.56027/JOASD.032021 https://quoidansmonassiette.fr/
