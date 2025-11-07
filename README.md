@@ -19,5 +19,26 @@
  https://quoidansmonassiette.fr/
 [regarde la video](https://youtu.be/OpgmGI49Uxg?t=227) 
 https://www.youtube.com/@natural.health.with.plants
-git add . https://www.youtube.com/@watch?natural.health.with.plants
+git add . https://www.youtube.com/watch?natural.health.with.plants
 https://www.youtube.com/@natural.health.with.plants
+
+Djihane Zekri
+5:10 PM (0 minutes ago)
+to me
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Vidéo YouTube sur GitHub Pages</title>
+</head>
+<body style="text-align:center;">
+  <h2>🎥 Ma vidéo YouTube</h2>
+  <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/OpgmGI49Uxg"
+          title="YouTube video player"
+          frameborder="0"
+          allowfullscreen>
+  </iframe>
+</body>
+</html>
