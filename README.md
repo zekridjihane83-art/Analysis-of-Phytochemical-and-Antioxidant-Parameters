@@ -19,4 +19,5 @@
  https://quoidansmonassiette.fr/
 [regarde la video](https://youtu.be/OpgmGI49Uxg?t=227) 
 https://www.youtube.com/@natural.health.with.plants
-git add . https://www.youtube.com/@natural.health.with.plants
+git add . https://www.youtube.com/@watch?natural.health.with.plants
+https://www.youtube.com/@natural.health.with.plants
