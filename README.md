@@ -38,73 +38,8 @@
   <p style="margin-top:10px;">
     ▶️ Cliquez sur l’image pour regarder la vidéo sur YouTube
   </p>
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-  <meta charset="UTF-8">
-  <title>Vidéo sur le Caroubier - Zekri Djihane</title>
-  <style>
-    body {
-      font-family: "Segoe UI", Arial, sans-serif;
-      background-color: #f7fafc;
-      color: #333;
-      text-align: center;
-      padding: 40px;
-    }
+## Vidéo sur les Antioxidants
 
-    h1 {
-      color: #2e8b57;
-      font-size: 28px;
-      margin-bottom: 10px;
-    }
+[![Lire la vidéo](https://via.placeholder.com/640x360.png?text=Vid%C3%A9o+Antioxidants)](https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4)
 
-    p {
-      font-size: 18px;
-      margin-bottom: 20px;
-    }
-
-    iframe {
-      width: 80%;
-      max-width: 700px;
-      height: 400px;
-      border: none;
-      border-radius: 12px;
-      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
-    }
-
-    footer {
-      margin-top: 20px;
-      font-size: 15px;
-      color: #555;
-    }
-
-    footer a {
-      color: #2e8b57;
-      text-decoration: none;
-      font-weight: bold;
-    }
-
-    footer a:hover {
-      text-decoration: underline;
-    }
-  </style>
-</head>
-
-<body>
-  <h1>🌳 Le Caroubier (Ceratonia siliqua)</h1>
-  <p><strong>Vertus médicinales, histoire et particularités</strong></p>
-
-  <!-- Vidéo intégrée directement -->
-  <iframe 
-    src="https://www.youtube.com/embed/zHV0JfhPQhU" 
-    title="Vidéo sur le Caroubier"
-    allowfullscreen>
-  </iframe>
-
-  <footer>
-    👩‍🔬 Réalisé par <strong>Zekri Djihane</strong><br>
-    🌍 Source : <a href="https://www.youtube.com/watch?v=zHV0JfhPQhU" target="_blank">YouTube</a>
-  </footer>
-</body>
-</html>
-[![Antioxidant — Découvrez comment ça fonctionne](https://img.youtube.com/vi/O2Lq9d5QfKU/0.jpg)](https://youtu.be/O2Lq9d5QfKU)
+Cette vidéo explique les antioxydants et leur rôle pour la santé.
