@@ -39,8 +39,26 @@
     ▶️ Cliquez sur l’image pour regarder la vidéo sur YouTube
   </p>
  
-# 🌳 Vidéo sur le Caroubier
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Vidéo sur le Caroubier</title>
+</head>
+<body style="text-align:center; background-color:#f5f5f5; font-family:Arial, sans-serif;">
+  <h2>🌳 Le Caroubier (Ceratonia siliqua)</h2>
+  <p>Découvrez les vertus et les propriétés du caroubier dans cette vidéo :</p>
 
-Découvrez cette courte vidéo éducative sur le caroubier — un arbre aux multiples vertus médicinales et alimentaires.
+  <!-- Intégration de la vidéo YouTube -->
+  <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/zHV0JfhPQhU"
+          title="Le Caroubier - Vertus et histoire"
+          frameborder="0"
+          allowfullscreen>
+  </iframe>
 
-🎥 [👉 Regarder la vidéo directement ici](https://raw.githubusercontent.com/tonpseudo/tonrepo/main/caroubier.mp4)
+  <p style="margin-top:20px;">
+    Vidéo source : <a href="https://www.youtube.com/watch?v=zHV0JfhPQhU" target="_blank">YouTube - Le Caroubier</a>
+  </p>
+</body>
+</html>
