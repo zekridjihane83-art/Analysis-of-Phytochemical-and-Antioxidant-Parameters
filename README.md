@@ -84,25 +84,7 @@
     img:hover {
       transform: scale(1.05);
     }
-  </style>
-</head>
-<body>
-  <h2>🌳 Le Caroubier (Ceratonia siliqua)</h2>
-  <p><strong>Vertus médicinales, histoire et particularités</strong></p>
+ 
 
-  <!-- Image cliquable -->
-  <a href="https://www.youtube.com/watch?v=zHV0JfhPQhU" target="_blank">
-    <img src="https://img.youtube.com/vi/zHV0JfhPQhU/hqdefault.jpg" alt="Vidéo sur le Caroubier">
-  </a>
 
-  <p>👩‍🔬 Auteur : <strong>Zekri Djihane</strong></p>
-
-  <!-- Intégration directe (optionnelle) -->
-  <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/zHV0JfhPQhU"
-          title="Vidéo sur le Caroubier"
-          frameborder="0"
-          allowfullscreen>
-  </iframe>
-</body>
-</html>
+https://img.youtube.com/vi/zHV0JfhPQhU/hqdefault.jpg
