@@ -38,105 +38,50 @@
   <p style="margin-top:10px;">
     ▶️ Cliquez sur l’image pour regarder la vidéo sur YouTube
   </p>
- 
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
-  <title>Vidéo sur le Caroubier</title>
-</head>
-<body style="text-align:center; background-color:#f5f5f5; font-family:Arial, sans-serif;">
-  <h2>🌳 Le Caroubier (Ceratonia siliqua)</h2>
-  <p>Découvrez les vertus et les propriétés du caroubier dans cette vidéo :</p>
-
-  <!-- Intégration de la vidéo YouTube -->
-  <iframe width="560" height="315"
-          src="https://www.youtube.com/embed/zHV0JfhPQhU"
-          title="Le Caroubier - Vertus et histoire"
-          frameborder="0"
-          allowfullscreen>
-  </iframe>
-
-  <p style="margin-top:20px;">
-    Vidéo source : <a href="https://www.youtube.com/watch?v=zHV0JfhPQhU" target="_blank">YouTube - Le Caroubier</a>
-  </p>
-</body>
-</html>
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-  <meta charset="UTF-8">
-  <title>Vidéo sur le Caroubier</title>
-  <style>
-    body {
-      text-align: center;
-      font-family: Arial, sans-serif;
-      background-color: #f4f4f9;
-      color: #333;
-      margin-top: 50px;
-    }
-    img {
-      width: 400px;
-      border-radius: 10px;
-      cursor: pointer;
-      transition: transform 0.3s ease;
-    }
-    img:hover {
-      transform: scale(1.05);
-    }
-
-Djihane Zekri
-7:34 PM (0 minutes ago)
-to me
-
-<!DOCTYPE html>
-<html lang="fr">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Vidéo sur le Caroubier</title>
+  <title>Vidéo sur le Caroubier - Zekri Djihane</title>
   <style>
     body {
       font-family: Arial, sans-serif;
       text-align: center;
-      background-color: #f5f5f5;
-      padding: 40px;
+      background-color: #f7f9fc;
+      color: #222;
+      margin: 50px;
     }
-    .container {
-      background: white;
-      padding: 20px;
+    h1 {
+      color: #2e8b57;
+      margin-bottom: 10px;
+    }
+    p {
+      font-size: 18px;
+    }
+    .thumbnail {
+      width: 560px;
+      max-width: 100%;
       border-radius: 12px;
-      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-      max-width: 700px;
-      margin: auto;
-    }
-    img {
-      width: 100%;
-      border-radius: 10px;
       cursor: pointer;
-      transition: 0.3s;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+      transition: transform 0.3s;
     }
-    img:hover {
+    .thumbnail:hover {
       transform: scale(1.03);
-    }
-    video {
-      width: 100%;
-      border-radius: 10px;
-      margin-top: 15px;
     }
   </style>
 </head>
 <body>
-  <div class="container">
-    <h2>🌿 Vidéo sur le Caroubier (Ceratonia siliqua)</h2>
-    <a href="#video">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Carob_tree.jpg" alt="Caroubier">
-    </a>
-    
-    <video id="video" controls>
-      <source src="video.mp4" type="video/mp4">
-      Votre navigateur ne supporte pas la lecture vidéo.
-    </video>
-  </div>
+  <h1>🌳 Le Caroubier (Ceratonia siliqua)</h1>
+  <p><strong>Vertus médicinales, histoire et particularités</strong></p>
+
+  <a href="https://www.youtube.com/watch?v=zHV0JfhPQhU" target="_blank">
+    <img class="thumbnail" src="https://img.youtube.com/vi/zHV0JfhPQhU/hqdefault.jpg" alt="Vidéo sur le Caroubier">
+  </a>
+
+  <p style="margin-top:20px;">
+    👩‍🔬 Réalisé par <strong>Zekri Djihane</strong><br>
+    🌍 Source : <a href="https://www.youtube.com/watch?v=zHV0JfhPQhU" target="_blank">YouTube</a>
+  </p>
 </body>
 </html>
