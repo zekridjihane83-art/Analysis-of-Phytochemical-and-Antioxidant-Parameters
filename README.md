@@ -47,40 +47,74 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Les Antioxydants Expliqués</title>
+    <title>Antioxydants : Image et Vidéo Explicatives</title>
     
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
             margin: 20px;
-            text-align: center; /* Centre le contenu au niveau du bloc */
+            color: #333;
+            background-color: #f4f4f4;
+            text-align: center; /* Centre le contenu principal */
+        }
+        .container {
+            max-width: 800px; /* Largeur maximale pour le contenu */
+            margin: 40px auto; /* Centre le conteneur principal */
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #2c3e50;
+            margin-bottom: 20px;
+        }
+        p {
+            line-height: 1.6;
+            margin-bottom: 25px;
+            font-size: 1.1em;
+        }
+        .image-section img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 8px;
+            margin-bottom: 30px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
         }
         .video-container {
-            max-width: 560px; /* Limite la largeur maximale */
-            margin: 0 auto; /* Centre le bloc de la vidéo */
+            position: relative;
+            padding-bottom: 56.25%; /* Ratio 16:9 (hauteur / largeur = 9/16 = 0.5625) */
+            height: 0;
+            overflow: hidden;
+            margin-bottom: 20px;
+            background-color: #000; /* Fond noir pour le lecteur vidéo */
+            border-radius: 8px;
         }
-        iframe {
+        .video-container iframe {
+            position: absolute;
+            top: 0;
+            left: 0;
             width: 100%;
-            height: 315px; /* Hauteur par défaut pour un ratio 16:9 standard */
+            height: 100%;
+            border: 0;
+        }
+        .call-to-action {
+            margin-top: 30px;
+            font-weight: bold;
+            color: #3498db;
         }
     </style>
 </head>
 <body>
 
-    <h1>Antioxydants : Rôle et Bénéfices 🛡️</h1>
-    <p>Regardez notre vidéo d'explication simplifiée sur le rôle des antioxydants dans la lutte contre le stress oxydatif et le vieillissement cellulaire.</p>
+    <div class="container">
+        <h1>🔍 Explorer le Monde des Antioxydants</h1>
+        <p>Découvrez l'importance cruciale des antioxydants pour notre santé. Cette section vous offre à la fois une illustration visuelle et une explication détaillée en vidéo de leur rôle contre le stress oxydatif et pour la protection de nos cellules.</p>
 
-    <div class="video-container">
-        <iframe 
-            width="560" 
-            height="315" 
-            src="https://www.youtube.com/embed/56o87j6xMdo" 
-            title="Tout savoir sur les antioxydants" 
-            frameborder="0" 
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
-            allowfullscreen>
-        </iframe>
-    </div>
+        <div class="image-section">
+            <h2>Aliments Riches en Antioxydants</h2>
+            <img src="https://images.unsplash.com/photo-1542838118-2495b6c2049d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzODU0MzcrMHwxfHNlYXJjaHwxfHxhbnRpb3hpZGFudHMlMjBmb29kfGVufDB8fHx8MTY5MDc3MjgyNA&ixlib=rb-4.0.3&q=80&w=800" alt="Assortiment de fruits et légumes colorés riches en antioxydants">
+            <p>Les fruits rouges, les légumes verts, et bien d'autres aliments colorés sont de véritables trésors d'antioxydants naturels.</p>
+        </div>
 
-</body>
-</html>
+        <hr style="border: 0; height: 1px
