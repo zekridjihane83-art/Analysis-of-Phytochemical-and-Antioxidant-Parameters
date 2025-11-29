@@ -43,3 +43,32 @@
 [![Lire la vidéo](https://via.placeholder.com/640x360.png?text=Vid%C3%A9o+Antioxidants)](https://sample-videos.com/video123/mp4/720/big_buck_bunny_720p_1mb.mp4)
 
 Cette vidéo explique les antioxydants et leur rôle pour la santé.
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Les Antioxydants Expliqués</title>
+    
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+            text-align: center; /* Centre le contenu au niveau du bloc */
+        }
+        .video-container {
+            max-width: 560px; /* Limite la largeur maximale */
+            margin: 0 auto; /* Centre le bloc de la vidéo */
+        }
+        iframe {
+            width: 100%;
+            height: 315px; /* Hauteur par défaut pour un ratio 16:9 standard */
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Antioxydants : Rôle et Bénéfices 🛡️</h1>
+    <p>Regardez notre vidéo d'explication simplifiée sur le rôle des antioxydants dans la lutte contre le stress oxydatif et le vieillissement cellulaire.</p>
+
+    <div class="video-container">
